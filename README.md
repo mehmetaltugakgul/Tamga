@@ -19,7 +19,7 @@ Tamga is a lightweight macOS menu bar bookmark manager designed for quick saving
 
 ## Installation (DMG)
 
-1. Open the shared `.dmg` file.
+1. Open the shared `.dmg` file. https://drive.google.com/file/d/110z5BZ-cWBu3Ic3PpkS_yasRHgJER9mm/view?usp=sharing
 2. Drag **Tamga** into the **Applications** folder.
 3. Launch Tamga from **Applications**.
 
